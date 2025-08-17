@@ -26,26 +26,30 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 
 🖼️ Dashboard Snapshot
 
-##⚡ How to Explore
+## ⚡ How to Explore
 
-Download the repo / project folder
+- Download the repo / project folder
+- Open SocialMediaDashboard.pbix in Power BI Desktop
+- Use the slicers & filters (Platform, Campaign, Date) to explore insights
+- Review campaign-wise ROI, Revenue vs Spend, and Engagement metrics
 
-Open SocialMediaDashboard.pbix in Power BI Desktop
-
-Use the slicers & filters (Platform, Campaign, Date) to explore insights
-
-Review campaign-wise ROI, Revenue vs Spend, and Engagement metrics
-
-##💡 Insights & Impact
+## 💡 Insights & Impact
 
 🔹 Identified high-performing campaigns that bring the best ROI
 🔹 Helped in budget allocation decisions for future ad campaigns
 🔹 Improved understanding of audience engagement trends
 🔹 Delivered data storytelling in a visually compelling format
 
+## 📂 Project Files
+---
+
+📑 Dashboard (.pbix file) – Full Power BI report
+📊 Dataset (.csv file) – Social media campaign data
+🖼 Snapshot (.png file) – Dashboard preview
 
 
-
+## 📷 Dashboard Snapshot
+<img width="1400" height="786" alt="Snapshot of Social Media Dashboard" src="https://github.com/user attachments/assets/a7284564-a6fc-452e-a2fa-8d48717d3a5e" />
 
 
 
