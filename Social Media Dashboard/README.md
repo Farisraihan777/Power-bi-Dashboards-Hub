@@ -41,7 +41,6 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 🔹 Delivered data storytelling in a visually compelling format
 
 ## 📂 Project Files
----
 
 📑 Dashboard (.pbix file) – Full Power BI report
 📊 Dataset (.csv file) – Social media campaign data
@@ -49,8 +48,7 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 
 
 ## 📷 Dashboard Snapshot
-<img width="1400" height="786" alt="Snapshot of Social Media Dashboard" src="https://github.com/user attachments/assets/a7284564-a6fc-452e-a2fa-8d48717d3a5e" />
-
+<img width="1400" height="786" alt="Snapshot of Social Media Dashboard" src="https://github.com/user-attachments/assets/6bd090e3-5a73-47de-8631-57eb834f9b97" />
 
 
 
