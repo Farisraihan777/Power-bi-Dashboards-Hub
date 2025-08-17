@@ -5,11 +5,16 @@ This project is a Power BI Dashboard designed to track and evaluate the performa
 The dashboard provides data-driven insights into revenue, spending, ROI, and audience engagement, helping businesses optimize ad strategies and achieve maximum returns.
 
 ## 🎯 Business Objectives
-✔️ Measure ROI (%) across platforms and campaigns</h1>
+✔️ Measure ROI (%) across platforms and campaigns
+
 ✔️ Track Total Revenue vs Total Spent
+
 ✔️ Monitor CPC (Cost per Click) and CTR (Click Through Rate)
+
 ✔️ Compare campaign performance (Independence Sale, Flash Deal, Festive Promo, etc.)
+
 ✔️ Understand audience engagement (Likes, Shares, Comments)
+
 ✔️ Enable interactive analysis with filters (Platform, Campaign, Date)
 
 ## 📌 Key Highlights
@@ -60,6 +65,15 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 
 🖼 Snapshot (.png file) – Dashboard preview
 
+
+## 📂 Dataset Source
+You can directly access the dataset files here:
+- [Campaign_Data.xlsx](https://github.com/Farisraihan777/Power-bi-Dashboards-Hub/blob/main/Social%20Media%20Dashboard/Social%20Media.pbix)
+
+  ## 🔗 Portfolio & Contact
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan-70b916329/)
+- 📧 [Email:](farisraihan777@gmail.com)
+- 🌐 [More Projects on GitHub](https://github.com/Farisraihan777)
 
 
 
