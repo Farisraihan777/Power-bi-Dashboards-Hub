@@ -35,16 +35,16 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 
 ## 💡 Insights & Impact
 
-🔹 Identified high-performing campaigns that bring the best ROI
-🔹 Helped in budget allocation decisions for future ad campaigns
-🔹 Improved understanding of audience engagement trends
+1. 🔹 Identified high-performing campaigns that bring the best ROI
+1. 🔹 Helped in budget allocation decisions for future ad campaigns
+2. 🔹 Improved understanding of audience engagement trends
 🔹 Delivered data storytelling in a visually compelling format
 
 ## 📂 Project Files
 
-📑 Dashboard (.pbix file) – Full Power BI report
-📊 Dataset (.csv file) – Social media campaign data
-🖼 Snapshot (.png file) – Dashboard preview
+* 📑 Dashboard (.pbix file) – Full Power BI report
+* 📊 Dataset (.csv file) – Social media campaign data
+* 🖼 Snapshot (.png file) – Dashboard preview
 
 
 ## 📷 Dashboard Snapshot
