@@ -33,13 +33,6 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 📊 Platform Insights → Facebook slightly outperformed Instagram
 
 
-## ⚡ How to Explore
-
-- Download the repo / project folder
-- Open SocialMediaDashboard.pbix in Power BI Desktop
-- Use the slicers & filters (Platform, Campaign, Date) to explore insights
-- Review campaign-wise ROI, Revenue vs Spend, and Engagement metrics
-
 ## 📊 Dashboard Insights
 1️⃣ Engagement Analysis by Campaign
 - Tracks Likes, Shares, Comments across different campaigns.
@@ -56,6 +49,14 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 4️⃣ Revenue vs Spent by Campaign
 - Visual comparison of Revenue earned vs Money invested.
 - Shows most efficient campaigns and areas needing optimization.
+
+
+## ⚡ How to Explore
+- Download the repo / project folder
+- Open SocialMediaDashboard.pbix in Power BI Desktop
+- Use the slicers & filters (Platform, Campaign, Date) to explore insights
+- Review campaign-wise ROI, Revenue vs Spend, and Engagement metrics
+
 
 ## 📂 Project Files
 📑 Dashboard (.pbix file) – Full Power BI report
