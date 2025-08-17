@@ -82,7 +82,7 @@ You can directly access the dataset files here:
 <img width="1400" height="786" alt="Snapshot of Social Media Dashboard" src="https://github.com/user-attachments/assets/6bd090e3-5a73-47de-8631-57eb834f9b97" />
 
 
-
+![Quote](https://img.shields.io/badge/💡_Smarter_insights--Better_Campaigns--Maximum_ROI-1E90FF?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 
