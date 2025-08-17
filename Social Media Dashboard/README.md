@@ -32,7 +32,6 @@ The dashboard provides data-driven insights into revenue, spending, ROI, and aud
 
 📊 Platform Insights → Facebook slightly outperformed Instagram
 
-🖼️ Dashboard Snapshot
 
 ## ⚡ How to Explore
 
