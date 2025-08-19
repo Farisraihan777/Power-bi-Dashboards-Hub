@@ -69,5 +69,5 @@ You can directly access the dataset files here:
 
 # 👉 Every dataset tells a story – this project brings the Titanic’s story to life through data visualization.
 
-## 📸 Dashboard Snapshot
+### 📸 Dashboard Snapshot
 <img width="1394" height="788" alt="Sanpshot Of Titanic Dashboard" src="https://github.com/user-attachments/assets/ba3edc0e-b901-41b5-81e6-b2dc097d1f3b" />
