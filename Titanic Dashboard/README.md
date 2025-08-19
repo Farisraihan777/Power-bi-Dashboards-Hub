@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 This project is an interactive Power BI dashboard built on the famous Titanic dataset. The goal was to transform raw Titanic dataset into meaningful visual insights using Power BI’s data visualization capabilities.
 
-🎯 Objective
+## 🎯 Objective
 - To analyze the Titanic dataset and identify patterns in passenger survival.
 - To visualize demographic information (age, gender, class).
 - To explore relationships between survival and factors such as age, sex, passenger class, and embarkation point.
@@ -48,16 +48,17 @@ This project is an interactive Power BI dashboard built on the famous Titanic da
 - Titanic Dataset – Kaggle / open-source dataset
 - DAX (Data Analysis Expressions) – for calculated measures
 
-📥 Dataset Info
+## 📥 Dataset Info
 - The dataset contains passenger information including:
 - Name, Sex, Age
 - SibSp (Siblings/Spouses aboard)
 - Parch (Parents/Children aboard)
 - Ticket, Fare, Cabin, Embarked
 - Survival Status (0 = Died, 1 = Survived)
-### 📂 Dataset Source
+  
+## 📂 Dataset Source
 You can directly access the dataset files here:
-- [Orders.csv](https://github.com/Farisraihan777/Power-bi-Dashboards-Hub/blob/main/Titanic%20Dashboard/titanic.csv)
+- [Titanic.csv](https://github.com/Farisraihan777/Power-bi-Dashboards-Hub/blob/main/Titanic%20Dashboard/titanic.csv)
 
 - - -
 
@@ -68,5 +69,5 @@ You can directly access the dataset files here:
 
 # 👉 Every dataset tells a story – this project brings the Titanic’s story to life through data visualization.
 
-### 📸 Dashboard Snapshot
+## 📸 Dashboard Snapshot
 <img width="1394" height="788" alt="Sanpshot Of Titanic Dashboard" src="https://github.com/user-attachments/assets/ba3edc0e-b901-41b5-81e6-b2dc097d1f3b" />
