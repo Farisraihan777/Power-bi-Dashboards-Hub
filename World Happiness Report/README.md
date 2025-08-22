@@ -37,10 +37,24 @@ This interactive dashboard helps users explore the top and bottom-ranking countr
 ### ✅ Interactive Table –
 - Country-wise Happiness Ranking with total scores.
 
+- - -
+📊 Dashboard Preview
+- - -
+## 📈 Key Insights
+- Top 3 Happiest Countries: Finland (7.77), Denmark (7.60), Norway (7.55).
+- Lowest Happiness Scores: Haiti, Botswana, Syria (<4).
+- GDP Leaders: Qatar, Luxembourg, Singapore show the highest GDP per capita.
+- Social Support: Iceland, Denmark, Finland lead with strong community support.
+- A positive correlation exists between GDP per capita and Happiness Scores.
 
-
-
-
+## 🛠 Tools & Techniques Used
+- Microsoft Power BI
+- KPI Cards
+- Bar & Column Charts
+- Scatter Plot
+- Tree Maps
+- Map Visualization
+- Slicers & Filters for Interactivity
 
 
 
