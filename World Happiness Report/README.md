@@ -54,13 +54,13 @@ This interactive dashboard helps users explore the top and bottom-ranking countr
 - Scatter Plot
 - Tree Maps
 - Map Visualization
-- Slicers &** Filters** for Interactivity
+- Slicers Filters for Interactivity
 
 
   
 ## 📂 Dataset Source
-You can directly access the dataset files here:
-- [Happiness Score Data.csv](https://github.com/Farisraihan777/Power-bi-Dashboards-Hub/blob/main/World%20Happiness%20Report/Happiness%20Score%20Data.csv)
+You can directly access the dataset files here: 
+[Happiness Score Data.csv](https://github.com/Farisraihan777/Power-bi-Dashboards-Hub/blob/main/World%20Happiness%20Report/Happiness%20Score%20Data.csv)
 
   - - -
 
@@ -69,12 +69,8 @@ You can directly access the dataset files here:
 - 📧 [Email:](farisraihan777@gmail.com)
 - 🌐 [More Projects on GitHub](https://github.com/Farisraihan777)
 
-## 💡 *“Happiness is not just a number – this dashboard turns data into meaningful global insights.”*  
+💡 *“Happiness is not just a number – this dashboard turns data into meaningful global insights.”*  
 
 ### 📸 Dashboard Snapshot
 <img width="1379" height="775" alt="Snanshot of Dashboard" src="https://github.com/user-attachments/assets/aed6054b-2e4c-4648-baa0-1abcaa7d4bf7" />
-
-
-💡 *“Happiness is not just a number – this dashboard turns data into meaningful global insights.”*  
-
 
