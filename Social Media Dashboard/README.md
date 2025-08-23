@@ -1,5 +1,5 @@
 # 🚀 Social Media Campaign Performance Dashboard
-
+[Social Media Dashboard GIF](file:///C:/Users/Faris%20Raihan/Downloads/Social%20Media%20Dashboard%20GIF.gif)
 ## 🌟 Project Overview
 This project is a Power BI Dashboard designed to track and evaluate the performance of social media marketing campaigns across platforms like Facebook and Instagram.
 
